@@ -1,12 +1,13 @@
 # Community-page
 Cohabs Community
-![Ekran görüntüsü 2024-01-09 022324](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/06e3ddb9-86e8-4805-9ba0-b0fd8dfd9d6d)
-![Ekran görüntüsü 2024-01-09 022257](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/635aff5c-94e6-440d-869a-206c86ea3cb0)
-![Ekran görüntüsü 2024-01-09 022221](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/a41665ba-5f20-4bd3-9cd1-ae15f9f3af2f)
-![Ekran görüntüsü 2024-01-09 022048](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/7ce059ca-cddd-4c93-8e88-5245a9f82d97)
-![Ekran görüntüsü 2024-01-09 022016](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/b445dfb5-8b34-4634-8c0c-763fbcaab2e0)
-![Ekran görüntüsü 2024-01-09 021935](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/2471cc93-039a-4a69-9429-ece073720373)
-![Ekran görüntüsü 2024-01-09 021853](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/b7aaff74-2e0e-4a9e-a7be-9d53c2ff8214)
-![Ekran görüntüsü 2024-01-09 021813](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/7448eec9-5e81-4ae2-bdc6-6f531f503128)
-![Ekran görüntüsü 2024-01-09 021702](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/8c73cf00-dea7-4529-be2a-54654666a4dd)
-![Ekran görüntüsü 2024-01-09 021602](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/dfb78df4-a850-4f47-98a8-1dba93e9ba84)
+
+![Ekran görüntüsü 2024-01-09 021602](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/6694452c-0527-4215-b658-7da780121a51)
+![Ekran görüntüsü 2024-01-09 021702](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/6e5d4325-1573-49f5-962c-4e8961e4b3f1)
+![Ekran görüntüsü 2024-01-09 021813](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/149333a4-2840-4c42-a302-f8c0bf2afd5d)
+![Ekran görüntüsü 2024-01-09 021853](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/dba72de9-335a-4f5c-9d27-0659c8bdee0e)
+![Ekran görüntüsü 2024-01-09 021935](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/4bb4eb83-9230-4262-a101-1b695ff8aaff)
+![Ekran görüntüsü 2024-01-09 022016](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/bc41d938-a191-49cd-a0e1-4c6b1961e279)
+![Ekran görüntüsü 2024-01-09 022048](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/7b0b59a8-b9cc-4c1b-8c87-88eb30ad33a8)
+![Ekran görüntüsü 2024-01-09 022221](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/88c6895d-1ef7-46e2-9db1-52a77c819bc1)
+![Ekran görüntüsü 2024-01-09 022257](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/3af8aaf5-4163-443b-a0f5-2527eea47235)
+![Ekran görüntüsü 2024-01-09 022324](https://github.com/Omer-KISAKOL/Community-page/assets/72518514/99f20631-fa37-4abd-bf89-bbd0fd99ff40)
