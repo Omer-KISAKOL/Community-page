@@ -1,2 +1,2 @@
 # Community-page
-Cohabs_Community
+Cohabs Community
